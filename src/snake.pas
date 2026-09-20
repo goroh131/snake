@@ -5,7 +5,7 @@ const
 	right = -77;
 	buttom = -80;
 	left = -75;
-	speed = 50;
+	speed = 100;
 type
 	CoorXY = record
 		x, y:integer;
